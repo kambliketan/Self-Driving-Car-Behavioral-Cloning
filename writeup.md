@@ -33,10 +33,11 @@ The goals / steps of this project are the following:
 #### 1. Submission includes all required files and can be used to run the simulator in autonomous mode
 
 My project includes the following files:
-* model.ipynb containing the script to generate data, create model and train the model. The final model code is also copied down below.
+* The final model code is also copied down below. model.ipynb contains the code to generate data, create model and train the model. It also contains intermediate iterations of the model. (Please ignore outputs as they might be from different trials at different time)
 * drive.py for driving the car in autonomous mode
 * model_final.h5 containing a trained convolution neural network 
 * writeup.md summarizing the results
+* final_video.mp4 contains the recorder lap with model_final.h5 and video.py
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and the drive.py file, the car can be driven autonomously around the track by executing 
